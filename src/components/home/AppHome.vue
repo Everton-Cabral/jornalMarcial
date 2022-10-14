@@ -21,27 +21,33 @@
                 <p id="titulo"> Análise da Banda Marcial Mardônio Coelho</p>
              <LazyYoutubeVideo src="https://www.youtube.com/embed/1On7Crew6nA" />
             </div>
-             <div class="text">
-              Entrada: Infelizmente a banda entrou em quadra sem fardamento, entendo que é algo que não depende da banda, mas sim dos recursos disponibilizados para a escola, mas não posso deixar de comentar que a falta do fardamento faz muita diferença no impacto da banda como também no psicológico de quem assiste e julga. A escolha da música de entrada não foi ruim, mas também não achei perfeita, porém foi muito bem executada com destaque para o naipe de tuba que executou e preencheu muito bem a música, a banda pode se atentar mais na sincronização de movimentos, o rapaz do trombone não acompanhou a velocidade do conjunto quando o mór deu o comando para ‘preparar pra tocar’, ajeitando isso, o garbo ficaria praticamente perfeito no momento inicial. Durante o deslocamento a percussão pesou um pouco a mão e em alguns momentos prejudicou a melodia da banda, a percussão deve controlar a intensidade na execução “tocar mais baixo”, ao se aproximar do palco a banda realizou duas paradas, a banda parou e o mor solicitou que a banda se aproximasse mais, acredito que para ter certeza que a banda ultrapassasse os 5 metros, porém esse pequeno intervalo de tempo e movimento quebra todo o alinhamento da banda, pois pega os músicos de parte de trás totalmente desatentos e justamento no local onde os jurados costumam ficar, a banda precisa combinar bem com o mór e a primeira fileira pra que isso não volte a acontecer pois podem perder pontos cruciais com algo totalmente evitável, durante a formação de palco alguns componentes apresentaram uma postura desuniforme com o conjunto e deselegante com o dorso muito curvado, a banda pode orientar os componentes a sempre esteram com o corpo firme e ereto. Percebo que na entrada, de um modo geral as primeiras vozes executam a música com maior intensidade que as segundas e terceiras vozes, com destaque para os segundos e terceiros trompetes que precisam executar a música na mesma intensidade que o primeiro trompete. 
-                
-             </div>
-             <div class="text">
-                Peça: Logo de início sinto a falta de intensidade dos tímpanos, a música pediu mais intensidade nos ataques iniciais dos tímpanos e o músico não respondeu, faltou segurança nas trompas e houve falha, a música também pedia mais intensidade para esse instrumento, também no início percebo que o trompete piccolo acentuou algumas notas no arpejo, acredito que essa execução deveria ser com uma intensidade contínua, o solista flugelhorn precisa se atentar a respiração para que o erro cometido no solo não se repita, caso o músico tenha alguma dificuldade com nervosismo, existe uma dica, quando estiver no ensaio ou estudando procure realizar algum exercício físico para acelerar os batimentos cardíacos, pode ser o ‘polichinelo’ antes de executar o trecho do solo, assim você ira conseguir trabalhar a sua respiração com o nível de estresse elevado parecido com o da apresentação, eu não concordo com a substituição dos souzafones pelo bombardão, acho que os souzafones ajudam na sonoridade da banda no tipo de ambiente barulhento que é a várzea, os euphoniums apresentaram bastante insegurança e desafinações em alguns momentos, parabéns para o naipe de trombone e tuba, os 2 trompetes e 3 trompetes precisam tocar com mais intensidade. Parabéns a banda, ótima apresentação!
-             </div>
-            <div class="text">
-                fardamento - 0.7 |
-                | percussão alta -0.2
-                | garbo -0.5
-                | desequilibrio entre as vozes -0.6 ------
 
-                | timpanos no incio -0.1
-                | trompas -1.0
-                | piccolo -0.5
-                | solo -0.2
-                | euphoniums -0.5
-                <br>
-                De 100 Pontos a Banda fez 95.7 Pontos
+            <div class="text">
+
+              <div class="entrada">
+               Entrada: Infelizmente a banda entrou em quadra sem fardamento, entendo que é algo que não depende da banda, mas sim dos recursos disponibilizados para a escola, mas não posso deixar de comentar que a falta do fardamento faz muita diferença no impacto da banda como também no psicológico de quem assiste e julga. A escolha da música de entrada não foi ruim, mas também não achei perfeita, porém foi muito bem executada com destaque para o naipe de tuba que executou e preencheu muito bem a música, a banda pode se atentar mais na sincronização de movimentos, o rapaz do trombone não acompanhou a velocidade do conjunto quando o mór deu o comando para ‘preparar pra tocar’, ajeitando isso, o garbo ficaria praticamente perfeito no momento inicial. Durante o deslocamento a percussão pesou um pouco a mão e em alguns momentos prejudicou a melodia da banda, a percussão deve controlar a intensidade na execução “tocar mais baixo”, ao se aproximar do palco a banda realizou duas paradas, a banda parou e o mor solicitou que a banda se aproximasse mais, acredito que para ter certeza que a banda ultrapassasse os 5 metros, porém esse pequeno intervalo de tempo e movimento quebra todo o alinhamento da banda, pois pega os músicos de parte de trás totalmente desatentos e justamento no local onde os jurados costumam ficar, a banda precisa combinar bem com o mór e a primeira fileira pra que isso não volte a acontecer pois podem perder pontos cruciais com algo totalmente evitável, durante a formação de palco alguns componentes apresentaram uma postura desuniforme com o conjunto e deselegante com o dorso muito curvado, a banda pode orientar os componentes a sempre esteram com o corpo firme e ereto. Percebo que na entrada, de um modo geral as primeiras vozes executam a música com maior intensidade que as segundas e terceiras vozes, com destaque para os segundos e terceiros trompetes que precisam executar a música na mesma intensidade que o primeiro trompete. 
+                 
+              </div>
+              <div class="peca">
+                Peça: Logo de início sinto a falta de intensidade dos tímpanos, a música pediu mais intensidade nos ataques iniciais dos tímpanos e o músico não respondeu, faltou segurança nas trompas e houve falha, a música também pedia mais intensidade para esse instrumento, também no início percebo que o trompete piccolo acentuou algumas notas no arpejo, acredito que essa execução deveria ser com uma intensidade contínua, o solista flugelhorn precisa se atentar a respiração para que o erro cometido no solo não se repita, caso o músico tenha alguma dificuldade com nervosismo, existe uma dica, quando estiver no ensaio ou estudando procure realizar algum exercício físico para acelerar os batimentos cardíacos, pode ser o ‘polichinelo’ antes de executar o trecho do solo, assim você ira conseguir trabalhar a sua respiração com o nível de estresse elevado parecido com o da apresentação, eu não concordo com a substituição dos souzafones pelo bombardão, acho que os souzafones ajudam na sonoridade da banda no tipo de ambiente barulhento que é a várzea, os euphoniums apresentaram bastante insegurança e desafinações em alguns momentos, parabéns para o naipe de trombone e tuba, os 2º trompetes e 3º trompetes precisam tocar com mais intensidade. Parabéns a banda, ótima apresentação! 
+              </div>
+     
             </div>
+            <div class="nota">
+                 Fardamento - 0.7 
+                 | Percussão alta -0.2
+                 | Garbo -0.5
+                 | Desequilibrio entre as vozes -0.6 
+ 
+                 | Timpanos no incio -0.1
+                 | Trompas -1.0
+                 | Piccolo -0.5
+                 | Solo -0.2
+                 | Euphoniums -0.5               
+             </div>
+             <div class="nota">
+              De 100 Pontos a Banda fez 95.7 Pontos
+             </div>
 
         </div>
 
@@ -70,6 +76,8 @@ export default {
 .home{
         background-color: black;
         height: auto;
+        display: flex;
+        flex-direction: column;
     }
     .top-bar{
         display: flex;
@@ -81,6 +89,11 @@ export default {
         align-items: center;
         font-weight: 400;
         font-family: 'Nanum Myeongjo', serif;
+        width: 100%;
+        position: fixed;
+        z-index: 1;
+       
+        
     }
     .container{
         color:			#808080;
@@ -92,6 +105,8 @@ export default {
         justify-content: center;
         margin-bottom: 10px;
         text-align: center;
+        margin-top: 130px;
+        
     }
     .footer{
         background-color: #1C1C1C;
@@ -99,11 +114,13 @@ export default {
         display: flex;
         align-items: center;
         justify-content: center;
+        margin-top: 10px;
 
     }
     .video{
         padding: 5px;
         margin-top: 10px;
+        width: 95%;
         
     }
     h2{
@@ -125,12 +142,21 @@ export default {
     font-family: 'EB Garamond', serif;
     font-size: 21px;
     padding: 15px;
+    padding: 15px;
+
     
  }
  .analise{
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+ }
+ .nota{
+  color: white;
+  padding: 10px;
+  display: flex;
+  font-size: 12px;
  }
  @media screen and (min-width: 1000px) {
   .top-bar{
@@ -138,14 +164,28 @@ export default {
     font-size: 25px;
   }
   #titulo{
-    font-size: 20px;
+    font-size: 30px;
   }
   .video{
-    width: 600px;
+    width:900px;
     margin-left: 10px;
   }
   .text{
-    width: 750px;
+   width: 100%;
+   display: flex;
+   justify-content: space-around;
+   margin: 10px;
+   
+  }
+  .entrada{
+    width: 40%;
+
+  }
+  .peca{
+    width: 40%;
+  }
+  .nota{
+    font-size: 18px;
   }
 }
  
